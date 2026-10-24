@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="xZYtg5mIXGu5oBSuttJ_">
+    <mxGraphModel dx="2883" dy="1183" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bmBrabDeyPwRqH7e7sGd-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;mining&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="30" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bmBrabDeyPwRqH7e7sGd-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="smithing" vertex="1">
+          <mxGeometry height="60" width="120" x="30" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="bmBrabDeyPwRqH7e7sGd-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;GATHER&lt;/div&gt;&lt;div&gt;copper lv1&lt;/div&gt;&lt;div&gt;iron lv15&lt;/div&gt;&lt;div&gt;silver lv30&lt;/div&gt;&lt;div&gt;Quartz lv55&lt;/div&gt;&lt;div&gt;gold lv60&lt;/div&gt;&lt;div&gt;platinum lv75&lt;/div&gt;&lt;div&gt;moonstone lv90&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="190" x="185" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bmBrabDeyPwRqH7e7sGd-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;gradientColor=none;" value="&lt;div align=&quot;center&quot;&gt;JOBS&lt;/div&gt;&lt;div&gt;work in royal mine (mining exp, money, no ores)&lt;/div&gt;&lt;div&gt;mining grunt (lowexp,lowmoney)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="315" x="400" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bmBrabDeyPwRqH7e7sGd-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;TRANSFORM&lt;/div&gt;&lt;div&gt;copper Armor &amp;amp; Weapons&lt;/div&gt;&lt;div&gt;Iron Armor &amp;amp; Weapons&lt;/div&gt;&lt;div&gt;silver Armor &amp;amp; Weapons&lt;/div&gt;&lt;div&gt;&lt;div&gt;Platinum Armor &amp;amp; Weapons&lt;/div&gt;&lt;div&gt;Moonstone Armor &amp;amp; Weapons&lt;/div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="200" width="190" x="185" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="bmBrabDeyPwRqH7e7sGd-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;gradientColor=none;" value="&lt;div align=&quot;center&quot;&gt;JOBS&lt;/div&gt;&lt;div&gt;royal smith&lt;/div&gt;&lt;div&gt;royal apprentice smith&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="315" x="400" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="bmBrabDeyPwRqH7e7sGd-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="woodcutting" vertex="1">
+          <mxGeometry height="60" width="120" x="30" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="bmBrabDeyPwRqH7e7sGd-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="200" width="190" x="185" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="bmBrabDeyPwRqH7e7sGd-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;gradientColor=none;" value="" vertex="1">
+          <mxGeometry height="120" width="315" x="400" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="bmBrabDeyPwRqH7e7sGd-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="woodworking" vertex="1">
+          <mxGeometry height="60" width="120" x="30" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="bmBrabDeyPwRqH7e7sGd-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="200" width="190" x="185" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="bmBrabDeyPwRqH7e7sGd-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;gradientColor=none;" value="" vertex="1">
+          <mxGeometry height="120" width="315" x="400" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="bmBrabDeyPwRqH7e7sGd-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="crafting" vertex="1">
+          <mxGeometry height="60" width="120" x="30" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="bmBrabDeyPwRqH7e7sGd-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;TRANSFORM&lt;/div&gt;&lt;div&gt;gold rings&lt;/div&gt;&lt;div&gt;gold necklaces&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="200" width="190" x="185" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="bmBrabDeyPwRqH7e7sGd-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;gradientColor=none;" value="" vertex="1">
+          <mxGeometry height="120" width="315" x="400" y="820" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
