@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="xZYtg5mIXGu5oBSuttJ_">
-    <mxGraphModel dx="2403" dy="986" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2883" dy="1183" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,13 +10,13 @@
         <mxCell id="bmBrabDeyPwRqH7e7sGd-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="smithing" vertex="1">
           <mxGeometry height="60" width="120" x="30" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="bmBrabDeyPwRqH7e7sGd-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;GATHER&lt;/div&gt;&lt;div&gt;copper lv1&lt;/div&gt;&lt;div&gt;iron lv15&lt;/div&gt;&lt;div&gt;silver lv30&lt;/div&gt;&lt;div&gt;Quartz lv55&lt;/div&gt;&lt;div&gt;gold lv60&lt;/div&gt;&lt;div&gt;platinum lv75&lt;/div&gt;&lt;div&gt;moonstone lv90&lt;/div&gt;" vertex="1">
-          <mxGeometry height="120" width="190" x="185" y="40" as="geometry" />
+        <mxCell id="bmBrabDeyPwRqH7e7sGd-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;GATHER&lt;/div&gt;&lt;div&gt;copper lv1&lt;/div&gt;&lt;div&gt;stone lv10&lt;/div&gt;&lt;div&gt;iron lv15&lt;/div&gt;&lt;div&gt;silver lv30&lt;/div&gt;&lt;div&gt;Quartz lv55&lt;/div&gt;&lt;div&gt;gold lv60&lt;/div&gt;&lt;div&gt;platinum lv75&lt;/div&gt;&lt;div&gt;moonstone lv90&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="190" x="185" y="40" as="geometry" />
         </mxCell>
         <mxCell id="bmBrabDeyPwRqH7e7sGd-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;gradientColor=none;" value="&lt;div align=&quot;center&quot;&gt;JOBS&lt;/div&gt;&lt;div&gt;work in royal mine (mining exp, money, no ores)&lt;/div&gt;&lt;div&gt;mining grunt (lowexp,lowmoney)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="120" width="315" x="400" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="bmBrabDeyPwRqH7e7sGd-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;TRANSFORM&lt;/div&gt;&lt;div&gt;copper Armor &amp;amp; Weapons&lt;/div&gt;&lt;div&gt;Iron Armor &amp;amp; Weapons&lt;/div&gt;&lt;div&gt;silver Armor &amp;amp; Weapons&lt;/div&gt;&lt;div&gt;&lt;div&gt;Platinum Armor &amp;amp; Weapons&lt;/div&gt;&lt;div&gt;Moonstone Armor &amp;amp; Weapons&lt;/div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="bmBrabDeyPwRqH7e7sGd-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;TRANSFORM&lt;/div&gt;&lt;div&gt;copper Armor &amp;amp; Weapons&lt;/div&gt;&lt;div&gt;Iron Armor &amp;amp; Weapons&lt;/div&gt;&lt;div&gt;silver Armor &amp;amp; Weapons&lt;/div&gt;&lt;div&gt;&lt;div&gt;Platinum Armor &amp;amp; Weapons&lt;/div&gt;&lt;div&gt;Moonstone Armor &amp;amp; Weapons&lt;/div&gt;ores into bars&lt;/div&gt;" vertex="1">
           <mxGeometry height="200" width="190" x="185" y="180" as="geometry" />
         </mxCell>
         <mxCell id="bmBrabDeyPwRqH7e7sGd-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;gradientColor=none;" value="&lt;div align=&quot;center&quot;&gt;JOBS&lt;/div&gt;&lt;div&gt;royal smith&lt;/div&gt;&lt;div&gt;royal apprentice smith&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
@@ -34,7 +34,7 @@
         <mxCell id="bmBrabDeyPwRqH7e7sGd-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="woodworking" vertex="1">
           <mxGeometry height="60" width="120" x="760" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="bmBrabDeyPwRqH7e7sGd-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;TRANSFORM&lt;/div&gt;&lt;div&gt;create furniture for home buffs&lt;/div&gt;&lt;div&gt;craft bow stave&lt;/div&gt;" vertex="1">
+        <mxCell id="bmBrabDeyPwRqH7e7sGd-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;TRANSFORM&lt;/div&gt;&lt;div&gt;create furniture for home buffs&lt;/div&gt;&lt;div&gt;craft bow stave&lt;/div&gt;&lt;div&gt;create home parts&lt;/div&gt;" vertex="1">
           <mxGeometry height="200" width="190" x="915" y="200" as="geometry" />
         </mxCell>
         <mxCell id="bmBrabDeyPwRqH7e7sGd-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;gradientColor=none;" value="JOBS&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" vertex="1">
@@ -48,6 +48,24 @@
         </mxCell>
         <mxCell id="bmBrabDeyPwRqH7e7sGd-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;gradientColor=none;" value="JOBS" vertex="1">
           <mxGeometry height="120" width="315" x="400" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="tsIa1c2PNBC-vwbLR7HP-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="mason" vertex="1">
+          <mxGeometry height="60" width="120" x="30" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="tsIa1c2PNBC-vwbLR7HP-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;TRANSFORM&lt;/div&gt;&lt;div&gt;allowed builds homes&lt;/div&gt;&lt;div&gt;build home with components&lt;/div&gt;" vertex="1">
+          <mxGeometry height="200" width="190" x="185" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="tsIa1c2PNBC-vwbLR7HP-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;gradientColor=none;" value="JOBS" vertex="1">
+          <mxGeometry height="120" width="315" x="400" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="tsIa1c2PNBC-vwbLR7HP-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="thieving" vertex="1">
+          <mxGeometry height="60" width="120" x="30" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="tsIa1c2PNBC-vwbLR7HP-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;TRANSFORM&lt;/div&gt;&lt;div&gt;allowed builds homes&lt;/div&gt;&lt;div&gt;build home with components&lt;/div&gt;" vertex="1">
+          <mxGeometry height="200" width="190" x="185" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="tsIa1c2PNBC-vwbLR7HP-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;gradientColor=none;" value="JOBS" vertex="1">
+          <mxGeometry height="120" width="315" x="400" y="390" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
